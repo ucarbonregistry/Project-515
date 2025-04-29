@@ -23,8 +23,24 @@ It has been operational since 19 September 2006, which is the earliest commissio
 the last commissioning date of the project is March 20 September 2006, previously under M/s
 Enercon Wind Farm (Madhya Pradesh) Pvt. Ltd., now operating as wind world wind farms (MP)
 Pvt Ltd. (hereinafter referred to as the Project Proponent or PP). 
+_______
+Details of Latitude & Longitude of Individual machines have been Given below: -
+_______
+SL no /LOC no/ Make /Capacity /Village/ Latitude --- Longitude
+_______
+1/ 12 /E-48 /800kW /Rajoda /22.91006565 ---- 76.08303331
+_________
+2/ 12/ E-48/ 800kW/ Rajoda/ 22.91138227 ---- 76.08271664
+__________
+3/ 12/ E-48 /800kW /Rajoda /22.91264895 ---- 76.08249997
+_________
+4/ 12/ E-48/ 800kW /Rajoda/ 22.91399894 ---- 76.08269996
+_________
+5/ 12/ E-48/ 800kW/ Rajoda/ 22.91528229 ---- 76.08241665
+__________
+6/ 12/ E-48/ 800kW/ Rajoda/ 22.90808232 ---- 76.08275
+___________
 
-______________
 The generated electricity is supplied to M.P
 Paschim Kshetra Vidyut Vitaran Co. Ltd, Indore under a long-term power purchase agreement
 (PPA). The expected operational lifetime of the project is for 20 years. The project being a
