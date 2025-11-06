@@ -61,3 +61,81 @@ _______
 ________
 6 /Enercon /800kW/ 20/09/2006 
 ________________
+ISSUANCE DATE: 06/11/2025
+
+QTY: 96784
+
+MP-01: 01/01/2013-31/12/2024
+____________
+Serial Number: 0001-000001-009227-UCR-CoU-IN-515-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 9227
+_________
+Serial Number: 0001-009228-017885-UCR-CoU-IN-515-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 8658
+__________
+Serial Number: 0001-017886-025857-UCR-CoU-IN-515-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 7972
+____________
+Serial Number: 0001-025858-034943-UCR-CoU-IN-515-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 9086
+____________
+Serial Number: 0001-034944-042648-UCR-CoU-IN-515-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 7705
+______________
+Serial Number: 0001-042649-051346-UCR-CoU-IN-515-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 8698
+____________
+Serial Number: 0001-051347-059908-UCR-CoU-IN-515-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 8562
+____________
+Serial Number: 0001-059909-067571-UCR-CoU-IN-515-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 7663
+_____________
+Serial Number: 0001-067572-075666-UCR-CoU-IN-515-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 8095
+___________
+Serial Number: 0001-075667-083623-UCR-CoU-IN-515-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 7957
+_____________
+Serial Number: 0001-083624-091018-UCR-CoU-IN-515-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 7395
+_____________
+Serial Number: 0001-091019-096784-UCR-CoU-IN-515-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 5766
+__________
